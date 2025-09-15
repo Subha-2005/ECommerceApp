@@ -140,7 +140,7 @@ INSERT INTO products(name, description, price, stock, category_id) VALUES
     String username = "root";
     String password = "Subha@01";
 5.Deploy on Apache Tomcat
-6.Open in browser: http://localhost:8080/ECommerceApp/
+6.Open in browser: http://localhost:8090/ECommerceApp/
 
 
 🛠️ Technologies Used:
@@ -168,5 +168,5 @@ INSERT INTO products(name, description, price, stock, category_id) VALUES
 ![Order Confirmation](screenshots/register.png)
 
 👨‍💻 Author
-   Developed by [Asutosh Patra]
-   GitHub: @asukrish
+   Developed by [Subhasri Pathisharma]
+   GitHub: Subha-2005
